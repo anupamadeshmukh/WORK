@@ -14,6 +14,8 @@ set CLASSPATH=%CLASSPATH%;%PROJECT_BASE_LIB%\spring-context-3.0.5.RELEASE.jar;%P
 
 set CLASSPATH=%CLASSPATH%;%PROJECT_BASE%/config
 
+set CLASSPATH=%CLASSPATH%;%PROJECT_BASE%
+
 cd target/classes
 
 java tradesale.processing.msgsender.MsgSenderService
