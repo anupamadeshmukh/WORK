@@ -5,6 +5,6 @@ Please read this before running the project.
 		runProductSaleMessageProcessor.cmd
 		runProductSaleMessageSender.cmd
 		
-3. Run buildTradeSale.cmd to build and package the project.
-4. runProductSaleMessageProcessor.cmd is for running the message processor.
-5. runProductSaleMessageSender.cmd for running the Mock Message Sender
+3. EXECUTE buildTradeSale.cmd to build and package the project.
+4. EXECUTE runProductSaleMessageProcessor.cmd is for running the message processor.
+5. EXECUTE runProductSaleMessageSender.cmd for running the Mock Message Sender
